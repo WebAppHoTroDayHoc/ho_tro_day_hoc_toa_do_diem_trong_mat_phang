@@ -60,10 +60,10 @@ z-index: 10;
 }
 
 header h1 {
-font-size: 2rem;
+font-size: 1.1rem;
 color: var(--primary-color);
 text-align: center;
-margin-bottom: 10;
+margin-bottom: 4;
 }
 
 header p {
@@ -504,7 +504,7 @@ body {
 
 .app-header h1 {
     font-size: 1rem;
-    margin-bottom: 8px;
+    margin-bottom: 6px;
 }
 
 .mode-tabs {
@@ -758,7 +758,7 @@ and (max-height: 500px) {
     padding-top: 5px;
 }
 
-.app-header h1 {
+.header h1 {
     display: none;
 }
 
